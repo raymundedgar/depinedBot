@@ -22,7 +22,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Zlkcyber/depinedBot.git
+    git clone https://github.com/raymundedgar/depinedBot.git
     cd depinedBot
     ```
 
